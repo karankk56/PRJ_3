@@ -1,1 +1,1 @@
-console.log('Happy developing main Branch✨')
+console.log('Happy developing feature Branch✨')
